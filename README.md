@@ -18,7 +18,7 @@ then, check ip address using:
 ifconfig
 
 You may see something like this:
-![ip addr](images/ifconfig.png)
+![ip addr](Images/ifconfig.png)
 
 This will be used later.
 
